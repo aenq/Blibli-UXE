@@ -4,10 +4,12 @@
 ## 1. What is a JavaScript Framework and explain about Vue.js as one of the JavaScript Framework!
 Framework is a set of tool, approaches, or methodologies designed to help someone doing their job more easily, as in this context, JavaScript framework is a tool that help JavaScript Developer to simplify the process of building, developing, and standardizing software application. JavaScript has framework for both backend and frontend development, Vue.js is one of the popular JavaScript Framework specifically for frontend web development that offer simplicity and flexibility for building user interfaces.
 
+<br>
 ## 2. What is the use of ellipsis?
 Ellipsis is used when the data is exceeds the available space in a design, we can truncate it to align with the design layout.
 For example, Blibli has many products and there's maybe also many products name that longer than 20 characters. For the product card layout, let us say it's only display 20 characters, that means we have to truncate the name, that is when we can use Ellipsis.
 
+<br>
 ## 3. Explain animation properties below:
 ### a. @keyframes
 `@keyframes` is a properties that we can use to make animation in CSS, we use @keyframes to define how our animation will move from start to finish, we can also use 0% that means the start of the animation to 100% which means the finish of animation.
@@ -82,9 +84,11 @@ If we want it to be `reverse` then we can write:
 }
 ```
 
+<br>
 ## 4. Please explain how lazy load works in JavaScript!
 Lazy load is an impactful technique for improving UX on a website, lazy load helps reduce the load time of a web page until the resources needed.
 
+<br>
 ## 5. Mention at least 5 git commands and describe each function of them!
 
 ### a. git add 
